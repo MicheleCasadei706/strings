@@ -8,3 +8,4 @@ Senza utilizzare le classi/metodi per la manipolazione delle stringhe
 
 Es: ToUpper(), ToLower(), StringBuilder, Lenght(), IsNumber(), IsLetter(), Count()
 # Cosa da in output
+
